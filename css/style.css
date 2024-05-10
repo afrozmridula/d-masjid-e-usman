@@ -61,9 +61,6 @@ body{
 
 .d-masjid-e-usman .seconds-count{
     color: rgb(86,247,79);
-}
-
-.d-masjid-e-usman .seconds-count{
     padding-top: 10px;
 }
 
@@ -179,7 +176,7 @@ body{
 }
 
 .d-masjid-e-usman .left-main-col-sun-times h4{
-    font-family: "DS-DIGITAL" , sans-serif;
+    font-family: "DSDIGI" , sans-serif;
     font-size: 40px;
     font-weight: bold;
     line-height: 5px;
@@ -519,5 +516,149 @@ body{
     }
     .d-masjid-e-usman .time-value h3{
         font-size: 35px;
+    }
+}
+
+@media (min-width : 1520px) and (max-width : 1620px){
+    .d-masjid-e-usman .left-main-col-prayernames {
+        height : 60% ;
+        padding-top: 17px;
+    }
+    .d-masjid-e-usman .banner-section{
+        height: 76%;
+    }
+}
+
+@media (min-width : 1621px) and (max-width : 1700px){
+    .d-masjid-e-usman .left-main-col-prayernames {
+        height : 57% ;
+        padding-top: 17px;
+    }
+    .d-masjid-e-usman .banner-section{
+        height: 73%;
+    }
+    .d-masjid-e-usman .logo-section img {
+        height: 93%;
+        width: 138%;
+        padding: 10px 0 0 66px;
+    }
+    .d-masjid-e-usman .afterlogo-text h1 {
+        padding: 23px 0 0 0;
+    }
+    .d-masjid-e-usman .english-date {
+        font-size: 39px;
+    }
+    .d-masjid-e-usman .arabic-date {
+        font-size: 38px
+    }
+    .d-masjid-e-usman .english-arabic-date{
+        padding: 26px 0 0 0;
+    }
+
+}
+
+@media (min-width : 1701px){
+    .d-masjid-e-usman .left-main-col-prayernames {
+        height : 57% ;
+        padding-top: 17px;
+    }
+    .d-masjid-e-usman .banner-section{
+        height: 73%;
+    }
+    .d-masjid-e-usman .logo-section img {
+        height: 93%;
+        width: 138%;
+        padding: 10px 0 0 66px;
+    }
+    .d-masjid-e-usman .afterlogo-text h1 {
+        padding: 23px 0 0 0;
+    }
+    .d-masjid-e-usman .english-date {
+        font-size: 39px;
+    }
+    .d-masjid-e-usman .arabic-date {
+        font-size: 38px
+    }
+    .d-masjid-e-usman .english-arabic-date{
+        padding: 26px 0 0 0;
+    }
+    .d-masjid-e-usman .lmc-heading h3{
+        font-size: 35px;
+    }
+    .d-masjid-e-usman .time-value h3 {
+        font-size: 70px;
+    }
+    .d-masjid-e-usman .title-value {
+        font-size: 40px;
+    }
+    .d-masjid-e-usman .left-main-col-sun-times p {
+        font-size: 29px;
+    }
+    .d-masjid-e-usman .left-main-col-sun-times h4{
+        font-size: 45px;
+        line-height: 25px;
+    }
+    .d-masjid-e-usman .digital-clock h2{
+        padding-top: 10px;
+    }
+    .d-masjid-e-usman .seconds-count h4 {
+        font-size: 58px;
+    }
+    .d-masjid-e-usman .seconds-count p {
+        font-size: 44px;
+    }
+    .d-masjid-e-usman .seconds-count {
+        padding-top: 17px;
+    }
+}
+
+@media(min-width : 1900px){
+    .d-masjid-e-usman .time-value h3 {
+        font-size: 90px;
+        line-height: 79px;
+    }
+    .d-masjid-e-usman .title-value {
+        font-size: 47px;
+        line-height: 32px;
+        padding: 33px 0 16px 0;
+    }
+    .d-masjid-e-usman .lmc-heading h3 {
+        font-size: 39px;
+    }
+    .d-masjid-e-usman .arabic-date {
+        font-size: 42px;
+    }
+    .d-masjid-e-usman .english-date {
+        font-size: 43px;
+    }
+    .d-masjid-e-usman .english-arabic-date {
+        padding: 32px 0 0 0;
+    }
+    .d-masjid-e-usman .left-main-col-sun-times p {
+        font-size: 34px;
+        padding-top: 21px;
+    }
+    .d-masjid-e-usman .left-main-col-sun-times h4 {
+        font-size: 51px;
+        line-height: 44px;
+    }
+    .d-masjid-e-usman .banner-section {
+        height: 74%;
+    }
+    .d-masjid-e-usman .logo-section img {
+        height: 99%;
+        width: 139%;
+        padding: 10px 0 0 66px;
+    }
+    .d-masjid-e-usman .afterlogo-text h1 {
+        padding: 32px 0 0 0;
+        font-size: 77px;
+    }
+    .d-masjid-e-usman .seconds-count h4 {
+        font-size: 67px;
+    }
+    .d-masjid-e-usman .seconds-count p {
+        font-size: 50px;
+        line-height: 53px;
     }
 }
