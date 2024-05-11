@@ -66,7 +66,7 @@ body{
 
 .d-masjid-e-usman .seconds-count h4{
     font-family: "DSDIGI" , sans-serif;
-    font-size: 50px;
+    font-size: 60px;
     font-weight: 600;
     margin-bottom: 0;
     display: inline;
@@ -77,7 +77,7 @@ body{
 
 .d-masjid-e-usman .seconds-count p{
     margin-bottom: 0;
-    font-size: 40px;
+    font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
     display: inline;
     line-height: 35px;
@@ -158,6 +158,10 @@ body{
     padding-top: 20px;
 }
 
+.d-masjid-e-usman .asr-title , .d-masjid-e-usman .asr-section h3{
+    color: rgb(86,247,79); ;
+}
+
 
 
 .d-masjid-e-usman .left-main-col-sun-times p , .d-masjid-e-usman .left-main-col-sun-times h4{
@@ -230,7 +234,7 @@ body{
 
 @media(max-width : 1370px){
     .d-masjid-e-usman .digital-clock h2{
-        font-size: 15vh;
+        font-size: 12vh;
     }
     .d-masjid-e-usman .seconds-count h4{
         font-size: 46px;
@@ -314,7 +318,7 @@ body{
         font-size: 55px;
     }              
     .d-masjid-e-usman .digital-clock h2{
-        font-size: 13vh;
+        font-size: 10vh;
     }
     .d-masjid-e-usman .seconds-count h4{
         font-size: 37px;
@@ -379,7 +383,7 @@ body{
         font-size: 45px;
     }
     .d-masjid-e-usman .digital-clock h2{
-        font-size: 12vh;
+        font-size: 10vh;
     }
     .d-masjid-e-usman .seconds-count h4{
         font-size: 35px;
